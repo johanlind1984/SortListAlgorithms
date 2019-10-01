@@ -15,14 +15,5 @@ public class ArrayFunctions {
 
         return unSortedArray;
     }
-
-    public static void printArray(int[] arrayList) {
-        //prints all the values of the array
-        System.out.println("===START OF LIST===");
-        for (int value : arrayList) {
-            System.out.println(value);
-        }
-        System.out.println("===END OF LIST===");
-    }
 }
 
