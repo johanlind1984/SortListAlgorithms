@@ -29,8 +29,6 @@ public class Sort {
                 arrayList[j+1] = arrayList[j];
                 j--;
             }
-            // at this point we've exited, so j is either -1
-            // or it's at the first element where current >= a[j]
             arrayList[j+1] = current;
         }
 
