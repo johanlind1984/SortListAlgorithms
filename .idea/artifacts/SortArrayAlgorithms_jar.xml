@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SortArrayAlgorithms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SortArrayAlgorithms_jar</output-path>
+    <root id="archive" name="SortArrayAlgorithms.jar">
+      <element id="module-output" name="SortArrayAlgorithms" />
+    </root>
+  </artifact>
+</component>
